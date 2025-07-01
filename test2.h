@@ -22,5 +22,8 @@ typedef struct
 
 
 #define MSPI1   ((SPI_Register*)0x40013000)
+#define MSPI2   ((SPI_Register*)0x40013000)
+
+
 
 #endif
